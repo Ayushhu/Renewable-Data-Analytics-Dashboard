@@ -14,13 +14,6 @@ This dashboard aims to provide a comprehensive overview for useful research and 
 * Capacity Analysis: Compares the difference between minimum and average installed capacities.
 * Conditionally Formatted Data View: Provides a tabular view of data with conditional formatting to highlight key values.
 
-## Getting Started
-To get started with this project, follow the installation instructions and explore the various dashboards and analyses available.
-
-### Installation and Usage
-* Clone the repository
-* Launch PowerBI Desktop and open the .pbix file located in the repository
-* Explore the dashboard and modify it according to your liking
 
 ## Demo
 https://github.com/ashita03/Renewable-Energy-Data-Analysis-Dashboard/assets/66629830/8fce5663-6424-4e32-8820-0262226a022f
