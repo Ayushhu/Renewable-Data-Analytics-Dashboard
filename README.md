@@ -1,5 +1,5 @@
-# 🔋 Renewable Energy Data Analysis - Using PowerBI
-This project uses PowerBI to analyze and visualize detailed information about various renewable energy systems. The dataset includes data on installed capacity, energy production, consumption, storage, investment, and environmental impact.
+#  Renewable Energy Data Analysis - Using PowerBI
+An interactive and insightful dashboard built to analyze and visualize renewable energy trends using real-world data. This project brings together data science, sustainability, and user-centric design to empower researchers, policymakers, and energy enthusiasts with actionable insights from renewable energy datasets. This project uses PowerBI to analyze and visualize detailed information about various renewable energy systems. The dataset includes data on installed capacity, energy production, consumption, storage, investment, and environmental impact.
 
 🔗 Link to the dataset - [Kaggle](https://www.kaggle.com/datasets/girumwondemagegn/dataset-for-renewable-energy-systems)
 
@@ -17,6 +17,17 @@ This dashboard aims to provide a comprehensive overview for useful research and 
 
 ## Demo
 https://github.com/ashita03/Renewable-Energy-Data-Analysis-Dashboard/assets/66629830/8fce5663-6424-4e32-8820-0262226a022f
+
+## Contributions
+Contributions are welcome! Feel free to fork the repo, submit issues, or make pull requests to enhance functionality or add new data sources.
+
+## Contact
+Developed by Ayush Kumar Mishra
+For queries or collaborations, feel free to reach out via GitHub Issues.
+
+
+
+
 
 
 > If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request
