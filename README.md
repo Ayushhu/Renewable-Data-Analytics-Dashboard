@@ -23,9 +23,6 @@ Contributions are welcome! Feel free to fork the repo, submit issues, or make pu
 
 ## Contact
 Developed by Ayush Kumar Mishra
-For queries or collaborations, feel free to reach out via GitHub Issues.
-
-
 
 
 
