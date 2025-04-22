@@ -1,4 +1,4 @@
-#  Renewable Energy Data Analysis - Using PowerBI
+#  Renewable Energy Data Analytics Dashboard using Power BI
 An interactive and insightful dashboard built to analyze and visualize renewable energy trends using real-world data. This project brings together data science, sustainability, and user-centric design to empower researchers, policymakers, and energy enthusiasts with actionable insights from renewable energy datasets. This project uses PowerBI to analyze and visualize detailed information about various renewable energy systems. The dataset includes data on installed capacity, energy production, consumption, storage, investment, and environmental impact.
 
 🔗 Link to the dataset - [Kaggle](https://www.kaggle.com/datasets/girumwondemagegn/dataset-for-renewable-energy-systems)
